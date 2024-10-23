@@ -111,11 +111,11 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
-![alt text](image-1.png)
+![alt text](image.png)
 
 $ ipcs
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 
